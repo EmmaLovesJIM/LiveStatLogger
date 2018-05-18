@@ -1,0 +1,33 @@
+{
+    "consumer_key": "D3LD49s9ho6T94kV8gl10Q",  
+    "consumer_secret": "U5tz2YMhewFIYRHahrjs17m1iaIFGHuQuzDbUiyw",
+    "access_token": "847818781-H9ugstU57ZpKLk1jJZF5dqGa9bfsw41UV0j3OT7K",  
+    "access_token_secret": "uA5RBET83EbSSCYYszcKLMYL8FhpePpO5eGrLeBu80xFp",
+
+
+
+    "twitter_message_start":["Emma is driving now! Watch our live feed at: {{url}} #emma_for_president"],
+    "twiiter_message_end":["Emmas trip is over! Stand by for the next trip!", "The trip is over say goodby"],
+
+    "route_website_baseurl": "http://emma.marcelochsendorf.com/route?key={{log_id}}",
+
+  
+    "couch_db_state_table_name":"emma_state",
+    "couch_db_url":"http://127.0.0.1:5984",
+
+
+
+    "mail_smtp_server":"smtp.strato.de",
+    "mail_smtp_port": 465,
+    "mail_smtp_secure":true,
+    "mail_smtp_user":"info@marcelochsendorf.com",
+    "mail_smtp_pass":"fjieow3490580jsdifio",
+    "mail_smtp_outgoing_mail":"info@marcelochsendorf.com",
+
+
+
+    "webserver_port":3000,
+
+    "maps_api_key":"AIzaSyDQ-bYYinEYuscHTeb82udmUUbEuiKrwyM"
+    
+}

@@ -1,0 +1,1 @@
+alle icons müssen .png sein bei 300x300 pixeln und sich im ordner ./psd_processed befinden der name muss wie die unit heissen
